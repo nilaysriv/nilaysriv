@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nilay</h1>
-<h3 align="left">A Bioinformatics student passionate about coding, data, and discovery. I love blending biology with technology to solve real-world problems.</h3>
+<h3 align="left">A Bioinformatics student passionate about computers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilaysriv&label=Views&color=ff0000&style=flat-square" alt="nilaysriv" /> </p>
 
