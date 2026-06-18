@@ -11,8 +11,6 @@ I’m currently working as a full-stack SDE with expertise in DevOps.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nilaysriv&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nilaysriv&theme=darcula&no-frame=true&no-bg=false&margin-w=4)
 
 
 
